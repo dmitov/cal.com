@@ -6,6 +6,7 @@ const config = {
     defaultLocale: "en",
     locales: [
       "ar",
+      "bg",
       "cs",
       "da",
       "de",
